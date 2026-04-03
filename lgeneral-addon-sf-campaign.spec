@@ -2,7 +2,7 @@ Summary:	LGeneral game - SF Campaign addon
 Summary(pl.UTF-8):	Gra Linux General - dodatek SF Campaign
 Name:		lgeneral-addon-sf-campaign
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	unknown
 Group:		Applications/Games
 Source0:	http://lgames.sourceforge.net/LGeneral/addons/sf-campaign.zip
